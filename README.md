@@ -1,2 +1,2 @@
 # test
-just a test
+just a basic test
